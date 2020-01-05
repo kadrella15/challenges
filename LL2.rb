@@ -35,6 +35,6 @@ node3 = LinkedListNode.new(12, node2)
 
 puts "Original"
 print_values(node3)
-puts "Mutated"
+puts "Mutation"
 reverse_list(node3)
 
